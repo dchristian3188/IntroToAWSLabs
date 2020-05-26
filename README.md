@@ -1,2 +1,3 @@
 # IntroToAWSLabs
-IntroToAWS-Labs
+IntroToAWS Labs And PowerPoints
+
